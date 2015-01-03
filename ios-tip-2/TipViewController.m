@@ -5,6 +5,9 @@
 //  Created by Peter Bai on 12/31/14.
 //  Copyright (c) 2014 Peter Bai. All rights reserved.
 //
+//  Uses the following libraries:
+//  * https://github.com/alexdrone/ios-fontawesome
+//  * http://fortawesome.github.com/Font-Awesome
 
 #import "TipViewController.h"
 #import "SettingsViewController.h"
