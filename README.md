@@ -2,6 +2,7 @@ Tip
 ==================
 
 Tip Calculator app for CodePath
+
 Time spent: 15 hours total
 
 Completed user stories:
